@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="poster_w185">185</integer>
+    <integer name="poster_h278">278</integer>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="title_details_activity">Movie Details</string>
+    <string name="trailer_type">Trailer</string>
+    <string name="trailer_site_youtube">YouTube</string>
+
+
+    <string name="movie">MOVIE</string>
+    <string name="no_overview">Plot synopsis for this movie is not available.</string>
+
+    <string name="release_date">Release date:</string>
+    <string name="rating">Rating:</string>
+
+    <string name="title_hint">Title of the Movie</string>
+    <string name="date_hint">25.08.2017</string>
+    <string name="rating_hint">8.5/10</string>
+    <string name="overview_hint">This is a story about a something called
+        something as part of a something special.</string>
+    <string name="review_hint">This movie was awesome. Totally recommend!</string>
+    <string name="reviewer_hint">Gazer Scenery</string>
+    <string name="by_author_review">by %s</string>
+
+    <string name="trailer_title">Trailers:</string>
+    <string name="reviews_title">Reviews:</string>
+
+    <string name="menu_popular">Most Popular</string>
+    <string name="menu_rating">Highest Rating</string>
+    <string name="menu_upcoming">Upcoming Releases</string>
+    <string name="menu_favorites">Favorite Movies</string>
+
+    <string name="sort_popularity">popular</string>
+    <string name="sort_rating">top_rated</string>
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+
+</resources>
