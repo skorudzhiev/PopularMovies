@@ -2,7 +2,7 @@
 
 > Popular Movies allows the users to discover the most popular movies playing
 
-
+![alt text](https://github.com/skorudzhiev/PopularMovies/blob/master/PopularMovies_land.png)
 
 Development of this app was split in two stages. 
 
